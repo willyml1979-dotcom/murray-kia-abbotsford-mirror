@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-10-26T01:28:06",
+  "generated_at": "2026-10-26T09:57:10",
   "vehicle_count": 143,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -61,13 +61,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500",
+      "name": "2018 RAM 1500 well Maintained! Low Payments! AC! Hitch! 6 seats",
       "vin": "1C6RR6FT5JS156940",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/272ebec58d50.html",
       "year": 2018,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "price": 13992.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Chevrolet Corvette Deal Pending!",
@@ -158,14 +160,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Mustang Mach-E ",
+      "name": "2022 Ford Mustang Mach-E Great Shape! Great Range! Smart Cruise! Nav! Lane!",
       "vin": "3FMTK1RM3NMA63421",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/16ae7683f3ef.html",
       "year": 2022,
       "make": "Ford",
       "model": "Mustang Mach-E",
       "condition": "used",
-      "price": 29991.0,
+      "price": 29992.0,
       "price_currency": "CAD"
     },
     {
@@ -616,7 +618,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45945.0,
+      "price": 50945.0,
       "price_currency": "CAD"
     },
     {
@@ -638,7 +640,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45695.0,
+      "price": 50695.0,
       "price_currency": "CAD"
     },
     {
@@ -671,7 +673,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45945.0,
+      "price": 50945.0,
       "price_currency": "CAD"
     },
     {
@@ -682,7 +684,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45945.0,
+      "price": 50945.0,
       "price_currency": "CAD"
     },
     {
@@ -693,7 +695,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45945.0,
+      "price": 50945.0,
       "price_currency": "CAD"
     },
     {
