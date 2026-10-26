@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-10-25T15:58:32",
+  "generated_at": "2026-10-26T01:28:06",
   "vehicle_count": 143,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -169,7 +169,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Wrangler ",
+      "name": "2022 Jeep Wrangler Automatic! heated Seats & Steering! Nav! Hardtop!",
       "vin": "1C4HJXDG3NW203890",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/dcd6eb37bf95.html",
       "year": 2022,
@@ -506,7 +506,7 @@
       "make": "Kia",
       "model": "EV9",
       "condition": "new",
-      "price": 66530.0,
+      "price": 67530.0,
       "price_currency": "CAD"
     },
     {
@@ -517,7 +517,7 @@
       "make": "Kia",
       "model": "EV9",
       "condition": "new",
-      "price": 66530.0,
+      "price": 67530.0,
       "price_currency": "CAD"
     },
     {
