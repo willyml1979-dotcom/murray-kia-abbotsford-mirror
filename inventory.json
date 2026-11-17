@@ -1,10 +1,32 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-10-26T09:57:10",
-  "vehicle_count": 143,
+  "generated_at": "2026-11-17T13:13:35",
+  "vehicle_count": 151,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2011 Kia Soul 1 owner! Service History! Timing Belt Done! AC!",
+      "vin": "KNDJT2A29B7724710",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/d38bfae96707.html",
+      "year": 2011,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 5999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014 RAM 1500 ",
+      "vin": "1C6RR7GT6ES288714",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/3f9a790647fd.html",
+      "year": 2014,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 17991.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2016 Dodge Grand Caravan Passenger Van Power Doors! Heated Leather seats & Steering! AC!",
       "vin": "2C4RDGDG4GR366636",
@@ -17,28 +39,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Honda Accord Sedan EX-L! 69,800km! 1 owner! Leather! Sunroof!",
-      "vin": "1HGCR2F83GA802642",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/97893a85740c.html",
-      "year": 2016,
-      "make": "Honda",
-      "model": "Accord",
-      "condition": "used",
-      "price": 20706.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Honda Accord Sedan Low km! Auto! Sunroof! Smart Cruise! Lane Keep!",
-      "vin": "1HGCR2F61HA808083",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/857d3f165c91.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Accord",
-      "condition": "used",
-      "price": 18904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Honda CR-V 63,000km! AWD! All-Weather Tires! Smart Cruise",
       "vin": "2HKRW2H57HH124251",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/1543961d4270.html",
@@ -46,7 +46,29 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 27304.0,
+      "price": 25807.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Kia Soul ",
+      "vin": "KNDJP3A54H7476945",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/a1e03d6b7427.html",
+      "year": 2017,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used",
+      "price": 14991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Audi SQ5 ",
+      "vin": "WA1C4AFY2J2153855",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/738ac455e02a.html",
+      "year": 2018,
+      "make": "Audi",
+      "model": "SQ5",
+      "condition": "used",
+      "price": 27991.0,
       "price_currency": "CAD"
     },
     {
@@ -57,7 +79,18 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 13996.0,
+      "price": 14444.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Mitsubishi Outlander PHEV GT",
+      "vin": "JA4J24A52JZ618976",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/d492ef71c7d1.html",
+      "year": 2018,
+      "make": "Mitsubishi",
+      "model": "Outlander PHEV",
+      "condition": "used",
+      "price": 18992.0,
       "price_currency": "CAD"
     },
     {
@@ -72,47 +105,45 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Chevrolet Corvette Deal Pending!",
+      "name": "2019 Chevrolet Corvette Lowest Price in the Country!!!!! Available!",
       "vin": "1G1YV3D76K5118940",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/22eb7e6c2e20.html",
       "year": 2019,
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "used",
-      "price": 69988.0,
+      "price": 68288.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Cherokee Deal Pending!",
-      "vin": "1C4PJMAB0KD356625",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/6a07cfa45a4d.html",
+      "name": "2019 Kia Sorento SX 44,000km! Leather! Sunroof! 7 seats! Nav!",
+      "vin": "5XYPKDA51KG530288",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/4b85682edb65.html",
       "year": 2019,
-      "make": "Jeep",
-      "model": "Cherokee",
+      "make": "Kia",
+      "model": "Sorento",
       "condition": "used",
-      "price": 16665.0,
+      "price": 27991.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Mercedes-Benz GLC Coupe ",
-      "vin": "WDC0J8KB7KF543513",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/c58af99bfd39.html",
+      "name": "2019 Nissan Leaf Hatchback",
+      "vin": "1N4AZ1CP8KC315967",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/8f2eebb6e62d.html",
       "year": 2019,
-      "make": "Mercedes-Benz",
-      "model": "GLC Coupe",
-      "condition": "used",
-      "price": 50991.0,
-      "price_currency": "CAD"
+      "make": "Nissan",
+      "model": "Leaf Hatchback",
+      "condition": "used"
     },
     {
-      "name": "2020 Toyota Corolla Sedan Low km! Smart Cruise! Heated seats! Nav! Lane Keep",
-      "vin": "5YFBPRBE4LP132612",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/37c9ad667ab9.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Corolla",
+      "name": "2019 Volkswagen Tiguan Comfortline",
+      "vin": "3VV2B7AXXKM172402",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/84b9148ce035.html",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Tiguan",
       "condition": "used",
-      "price": 19802.0,
+      "price": 18991.0,
       "price_currency": "CAD"
     },
     {
@@ -127,6 +158,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Ford F-150 ",
+      "vin": "1FTEW1EP8MFC10820",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/0f65de269990.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 27991.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Kia Seltos SX! Turbo! AWD! Smart Cruise! Leather! Sunroof!",
       "vin": "KNDETCA21M7178110",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/c4eb4bb1470a.html",
@@ -134,62 +176,18 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 21915.0,
+      "price": 20807.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Crosstrek 41,000 km! auto! AWD! Nav! Smart Cruise! Lane Keep",
-      "vin": "JF2GTABC3M8360570",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/a45c86f20bb6.html",
+      "name": "2021 Kia Sorento SOLD~",
+      "vin": "5XYRGDLC1MG028776",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/d8816f9901aa.html",
       "year": 2021,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "used",
-      "price": 29802.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Tacoma Lift! Wheel Pack low k! 4x4! Crew! Carplay/Android",
-      "vin": "5TFDZ5BN3MX058159",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/4aa3a0ab00b7.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 45913.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Mustang Mach-E Great Shape! Great Range! Smart Cruise! Nav! Lane!",
-      "vin": "3FMTK1RM3NMA63421",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/16ae7683f3ef.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Mustang Mach-E",
-      "condition": "used",
-      "price": 29992.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Jeep Wrangler Automatic! heated Seats & Steering! Nav! Hardtop!",
-      "vin": "1C4HJXDG3NW203890",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/dcd6eb37bf95.html",
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 35991.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Forte Sedan Wheel Pack! New Tires! Lane Keep! Heated Seats NAV",
-      "vin": "3KPF34AD3NE444918",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/91c521bd7800.html",
-      "year": 2022,
       "make": "Kia",
-      "model": "Forte",
+      "model": "Sorento",
       "condition": "used",
-      "price": 18486.0,
+      "price": 25991.0,
       "price_currency": "CAD"
     },
     {
@@ -222,18 +220,7 @@
       "make": "Ford",
       "model": "Bronco 4x4! Nav! Smart Cruise Control! Lane Keep! Auto!",
       "condition": "used",
-      "price": 41802.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Odyssey Black Edition Auto -Loaded - 8 seats NAV Lane Keep",
-      "vin": "5FNRL6H01PB500184",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/a006982d8b25.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 39999.0,
+      "price": 40494.0,
       "price_currency": "CAD"
     },
     {
@@ -244,18 +231,29 @@
       "make": "Jeep",
       "model": "Compass AWD! Lane Keep assist! Nav! Heated Seats! AC!",
       "condition": "used",
-      "price": 19806.0,
+      "price": 21599.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Jeep Grand Cherokee 4xe Plug In Hybrid! HOV! Loaded! TRAILHAWK",
-      "vin": "1C4RJYC60P8875349",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/855a29ec417d.html",
+      "name": "2023 Kia Seltos ",
+      "vin": "KNDERCAA2P7401118",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/9d249afae816.html",
       "year": 2023,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
+      "make": "Kia",
+      "model": "Seltos",
       "condition": "used",
-      "price": 37777.0,
+      "price": 24991.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Sportage Plug-in Hybrid Plug In Hybrid! 1 owner! Power Tailgate! Leather!",
+      "vin": "KNDPVDAH6P7074939",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/4398b4ca0ff1.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "used",
+      "price": 38991.0,
       "price_currency": "CAD"
     },
     {
@@ -270,14 +268,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Tacoma V6 TRD Off-Road Rims! Nav! Heated Seats! 4x4! Crew",
+      "name": "2023 Toyota Tacoma Double Cab V6 TRD Off-Road Rims! Nav! Heated Seats! 4x4! Crew",
       "vin": "3TYDZ5BN3PT028741",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/7a641c928ba7.html",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/3b70af10b604.html",
       "year": 2023,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 49444.0,
+      "price": 47809.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +286,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 62408.0,
+      "price": 59809.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +297,7 @@
       "make": "BMW",
       "model": "X1",
       "condition": "used",
-      "price": 29488.0,
+      "price": 29888.0,
       "price_currency": "CAD"
     },
     {
@@ -310,18 +308,18 @@
       "make": "GMC",
       "model": "Savana",
       "condition": "used",
-      "price": 41995.0,
+      "price": 40703.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Niro EV Power Liftgate! 1 owner! Full history! Heat Pump!",
-      "vin": "KNDCR3L16R5079618",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/1cdbbcb11de1.html",
+      "name": "2024 Kia EV6 Long Range! AWD! Full History! Nav! Smart Cruise!",
+      "vin": "KNDC3DLC3R5617149",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/ed7326295bb4.html",
       "year": 2024,
       "make": "Kia",
-      "model": "Niro EV",
+      "model": "EV6",
       "condition": "used",
-      "price": 31419.0,
+      "price": 38713.0,
       "price_currency": "CAD"
     },
     {
@@ -347,6 +345,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Kia Telluride X-Line! 1 owner! Only 41,000km! Captain Seats! Nav",
+      "vin": "5XYP5DGCXRG483107",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/ad85b3789e8f.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "condition": "used",
+      "price": 49991.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Mazda CX-90 MHEV Mild Hybrid! Sunroof! Leather! Smart Cruise! Nav!",
       "vin": "JM3KKCHD0R1146196",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/c2c12f9ea88c.html",
@@ -355,17 +364,6 @@
       "model": "CX-90 MHEV",
       "condition": "used",
       "price": 37986.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Highlander XLE! 7 Seats! Leather! Sunroof! Lane! Smart Cruise",
-      "vin": "5TDKDRBH3RS560836",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/667e6ac6f8f1.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Highlander",
-      "condition": "used",
-      "price": 44999.0,
       "price_currency": "CAD"
     },
     {
@@ -380,25 +378,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Carnival SX+ Recliners! Loaded!New Tire! Dual Sunroof! Nav!",
-      "vin": "KNDNE5K39S6484150",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/be4530418728.html",
+      "name": "2025 Kia EV9 No Luxury Tax! Loaded! Cooled seats! Bose Stereo!",
+      "vin": "KNDAEFS57S6059676",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/061dd0085a0d.html",
       "year": 2025,
       "make": "Kia",
-      "model": "Carnival",
+      "model": "EV9",
       "condition": "used",
-      "price": 47498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia K4 Smart Cruise! Emergency Braking! Heated Seats! Nav",
-      "vin": "3KPFU4DE1SE149961",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/da3c9a152276.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "used",
-      "price": 23802.0,
+      "price": 70443.0,
       "price_currency": "CAD"
     },
     {
@@ -409,7 +396,18 @@
       "make": "Kia",
       "model": "K4",
       "condition": "used",
-      "price": 23802.0,
+      "price": 22999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia K4 EX! Heated Seats & Steering! Smart Cruise! Nav!",
+      "vin": "3KPFU4DE3SE102916",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/2e74137943d6.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "used",
+      "price": 23991.0,
       "price_currency": "CAD"
     },
     {
@@ -420,7 +418,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 31983.0,
+      "price": 30897.0,
       "price_currency": "CAD"
     },
     {
@@ -431,7 +429,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 31984.0,
+      "price": 30807.0,
       "price_currency": "CAD"
     },
     {
@@ -442,7 +440,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 40987.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -453,18 +451,29 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 37483.0,
+      "price": 36494.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage ",
-      "vin": "KNDPUCDF6T7467728",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/de0491690433.html",
+      "name": "2026 Kia Sportage X-Line - Saves massive VS new! Clean! AWD! Leather",
+      "vin": "KNDPUCDF7T7491312",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/1d4cec6245a7.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 34991.0,
+      "price": 32983.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage AWD! Nav! Safety Pack! Roof Racks! Leather!",
+      "vin": "KNDPUCDF6T7467728",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/de0491690433.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage AWD! Nav! Safety Pack! Roof Racks! Leather!",
+      "condition": "used",
+      "price": 32993.0,
       "price_currency": "CAD"
     },
     {
@@ -476,61 +485,6 @@
       "model": "Carnival",
       "condition": "new",
       "price": 47445.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV4 GT-LINE LIMITED Morning Haze",
-      "vin": "KNAD54D30T6014591",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/20487b6a5e40.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV4",
-      "condition": "new",
-      "price": 53682.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND W/GT-LINE PACKAGE Aurora Black Pearl",
-      "vin": "KNDAEFS53T6085547",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/73042028996f.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9 LAND W/GT-LINE PACKAGE Aurora Black Pearl",
-      "condition": "new",
-      "price": 81780.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND Panthera Metal",
-      "vin": "KNDAFFS53T6087411",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/bc33d3a7b99b.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 67530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND Panthera Metal",
-      "vin": "KNDAFFS53T6087750",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/5a61e985c622.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 67530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia EV9 LAND Snow White Pearl",
-      "vin": "KNDAFFS54T6088003",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/16f25b82bc24.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "EV9",
-      "condition": "new",
-      "price": 67530.0,
       "price_currency": "CAD"
     },
     {
@@ -655,17 +609,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Niro EV WAVE Snow White Pearl",
-      "vin": "KNDCT3L18T5158586",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/b0907d58dc37.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 48945.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Niro EV WIND+ Interstellar Grey",
       "vin": "KNDCR3L19T5158353",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/b2ed85d41cab.html",
@@ -680,17 +623,6 @@
       "name": "2026 Kia Niro EV WIND+ Snow White Pearl",
       "vin": "KNDCR3L1XT5156661",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/025804221f0a.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 50945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WIND+ Mineral Blue",
-      "vin": "KNDCR3L1XT5156899",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d0becc8cac10.html",
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
@@ -717,7 +649,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "new",
-      "price": 45945.0,
+      "price": 50945.0,
       "price_currency": "CAD"
     },
     {
@@ -816,7 +748,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 57480.0,
+      "price": 58480.0,
       "price_currency": "CAD"
     },
     {
@@ -853,17 +785,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX Interstellar Grey",
-      "vin": "KNDRKDJH3T5524151",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/c8d198281176.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
-      "condition": "new",
-      "price": 49145.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage EX PREMIUM Fusion Black",
       "vin": "KNDPVCDF9T7490966",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/b55080f24cf0.html",
@@ -871,7 +792,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42695.0,
+      "price": 43445.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +803,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 45175.0,
+      "price": 42830.0,
       "price_currency": "CAD"
     },
     {
@@ -893,7 +814,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40945.0,
+      "price": 41695.0,
       "price_currency": "CAD"
     },
     {
@@ -904,7 +825,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 32795.0,
+      "price": 33545.0,
       "price_currency": "CAD"
     },
     {
@@ -915,7 +836,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40695.0,
+      "price": 41445.0,
       "price_currency": "CAD"
     },
     {
@@ -926,7 +847,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42695.0,
+      "price": 43445.0,
       "price_currency": "CAD"
     },
     {
@@ -985,40 +906,42 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage LX AWD",
-      "vin": "KNDPUCDF7T7491312",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/e0cfd0f8f45f.html",
+      "name": "2026 Kia Sportage X-LINE LIMITED Jungle Green",
+      "vin": "KNDPXCDF7T7502042",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/3235991c09cc.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "price": 46162.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage EX PREMIUM Snow White Pearl",
+      "vin": "KNDPVCDF3T7475959",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/685c9744ea30.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 44295.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage X-LINE LIMITED Jungle Green",
+      "vin": "KNDPXCDFXT7502178",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/cbc093c5d273.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new",
+      "price": 47230.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX Snow White Pearl",
       "vin": "KNDNC5KA9V6208835",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/79727718d494.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival Hybrid",
-      "condition": "new",
-      "price": 54130.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Carnival Hybrid SX Flare Red",
-      "vin": "KNDNE5KA0V6221922",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/eaf7f00f329e.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival Hybrid",
-      "condition": "new",
-      "price": 59230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Carnival Hybrid EX Snow White Pearl",
-      "vin": "KNDNC5KA5V6223462",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/7cc3ec6890b9.html",
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
@@ -1060,6 +983,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Carnival Hybrid SX+ Ghost Grey",
+      "vin": "KNDNE5KA3V6243753",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/4ca673b64152.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 61230.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Carnival EX+ Snow White Pearl",
       "vin": "KNDNC5K30V6659086",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/4ad61b8cec92.html",
@@ -1093,25 +1027,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV3 WIND Snow White Pearl",
-      "vin": "3KMDBDDC1VE004156",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/2cb3d54e95f5.html",
+      "name": "2027 Kia Carnival LX Snow White Pearl",
+      "vin": "KNDNB5K32V6680489",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/4ee51f5f2188.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3",
+      "model": "Carnival",
       "condition": "new",
-      "price": 46030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 LIGHT Frost Blue",
-      "vin": "3KMDA3DB8VE002859",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/0c26c6edddc5.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 39530.0,
+      "price": 45350.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,6 +1049,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia EV4 WIND PREMIUM Aurora Black",
+      "vin": "KNAD34D58V6026160",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/7d648d1121c6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV4",
+      "condition": "new",
+      "price": 50880.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV4 WIND Shale Grey",
+      "vin": "KNAD24D57V6026282",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/57e768b9bb9d.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV4",
+      "condition": "new",
+      "price": 48630.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia EV5 LAND Frost Blue",
       "vin": "KNDH44DA6V7062101",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d4a98c0a12c8.html",
@@ -1134,6 +1079,72 @@
       "model": "EV5",
       "condition": "new",
       "price": 52230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 LAND Iceburg Green",
+      "vin": "KNDH4DDE7V7067360",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d0c71e641eb9.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 54730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 LAND Ivory Silver",
+      "vin": "KNDH4DDE5V7066272",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/42af7b7f86f5.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 54730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 WIND Gravity Grey",
+      "vin": "KNDH3DDEXV7066013",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/dda596b3fc10.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 52530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV5 LAND Gravity Grey",
+      "vin": "KNDH4DDE4V7064514",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/32de8ead8005.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 54730.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV9 LAND W/PREMIUM 6P PKG Aurora Black Pearl",
+      "vin": "KNDADFS53V6088888",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/39aba5a25c0e.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 LAND W/PREMIUM 6P PKG Aurora Black Pearl",
+      "condition": "new",
+      "price": 78230.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV9 LAND W/GT-LINE 7P PKG Pebble Grey",
+      "vin": "KNDAEFS58V6089547",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/a8e734ef8d0c.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 LAND W/GT-LINE 7P PKG Pebble Grey",
+      "condition": "new",
+      "price": 82030.0,
       "price_currency": "CAD"
     },
     {
@@ -1181,14 +1192,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos LX Fusion Black",
-      "vin": "KNDEB3D35V7025495",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/e91bb18972bb.html",
+      "name": "2027 Kia K4 EX Aurora Black Pearl",
+      "vin": "3KPFU4DE4VE446310",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/6f633c2a7025.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos",
+      "model": "K4",
       "condition": "new",
-      "price": 30695.0,
+      "price": 29330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia K4 LX Snow White Pearl",
+      "vin": "3KPFT5DEXVE446059",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/437bdb8b1faa.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 27280.0,
       "price_currency": "CAD"
     },
     {
@@ -1255,17 +1277,6 @@
       "model": "Seltos",
       "condition": "new",
       "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos EX PREMIUM Snow White Pearl",
-      "vin": "KNDECCD39V5024696",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/bbe09c6fbe33.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 39280.0,
       "price_currency": "CAD"
     },
     {
@@ -1357,6 +1368,61 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Seltos EX Interstellar Grey",
+      "vin": "KNDECCD31V5055151",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/8cb7ca8c01a6.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 35980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX PREMIUM ICEBERG GREEN",
+      "vin": "KNDECCD31V7052898",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/900d9fbde1cf.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX Snow White Pearl",
+      "vin": "KNDEBCD37V7013946",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/160ff6f8bd48.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 32945.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos LX Snow White Pearl",
+      "vin": "KNDEB3D36V5021368",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/8d14c594c9b2.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 30980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Seltos EX PREMIUM Frost Blue",
+      "vin": "KNDECCD35V7083104",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/dd08b81dc5ad.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 39280.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Sorento Hybrid SX Interstellar Grey",
       "vin": "KNDRHDJG9V5571810",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/71d619ba0c39.html",
@@ -1390,17 +1456,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX PREMIUM Gravity Grey",
-      "vin": "KNDPVDDGXV7430616",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/edc7e9fdc44b.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 46229.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Sportage Hybrid EX Fusion Black",
       "vin": "KNDPVDDG0V7433380",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/8dca20bd43ca.html",
@@ -1426,17 +1481,6 @@
       "name": "2027 Kia Sportage Hybrid EX Heritage Blue",
       "vin": "KNDPVDDG6V7444562",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/1e4228500e89.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 44180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Sportage Hybrid EX Snow White Pearl",
-      "vin": "KNDPVDDG5V7453589",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/567f7e52ea06.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
@@ -1541,6 +1585,50 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX Snow White Pearl",
+      "vin": "KNDPXDDGXV7478000",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/c9e4c1a86f1c.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX Heritage Blue",
+      "vin": "KNDPXDDG0V7478250",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/bcc58717871b.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX Heritage Blue",
+      "vin": "KNDPXDDG3V7478095",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/274f7df68f85.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX Steel Grey",
+      "vin": "KNDPXDDGXV7476568",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/35d0c1e96850.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
       "price_currency": "CAD"
     },
     {
