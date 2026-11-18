@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-11-18T03:01:27",
-  "vehicle_count": 152,
+  "generated_at": "2026-11-18T11:41:28",
+  "vehicle_count": 154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -81,6 +81,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2018 GMC Sierra 1500 SLE",
+      "vin": "3GTU2MEC3JG106655",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/a7cc931e9057.html",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used",
+      "price": 29992.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2018 Hyundai Santa Fe Sport Loaded! Leather! Heated & Cooled Seats! Sunroof!",
       "vin": "5NMZUDLA1JH051371",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/066f23bbd450.html",
@@ -136,13 +147,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Nissan Leaf Hatchback",
+      "name": "2019 Nissan Leaf Hatchback ",
       "vin": "1N4AZ1CP8KC315967",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/8f2eebb6e62d.html",
       "year": 2019,
       "make": "Nissan",
       "model": "Leaf Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "price": 17981.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2019 Volkswagen Tiguan Comfortline",
@@ -152,7 +165,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 18991.0,
+      "price": 18902.0,
       "price_currency": "CAD"
     },
     {
@@ -350,7 +363,7 @@
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 49991.0,
+      "price": 49812.0,
       "price_currency": "CAD"
     },
     {
@@ -362,6 +375,17 @@
       "model": "CX-90 MHEV",
       "condition": "used",
       "price": 35999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Mazda CX-90 MHEV GS",
+      "vin": "JM3KKBHD1R1185633",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/2efa3047638b.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-90 MHEV",
+      "condition": "used",
+      "price": 35991.0,
       "price_currency": "CAD"
     },
     {
@@ -1450,7 +1474,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 43780.0,
+      "price": 41670.0,
       "price_currency": "CAD"
     },
     {
@@ -1461,7 +1485,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 43930.0,
+      "price": 41670.0,
       "price_currency": "CAD"
     },
     {
@@ -1472,7 +1496,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 43930.0,
+      "price": 43430.0,
       "price_currency": "CAD"
     },
     {
@@ -1483,7 +1507,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 44180.0,
+      "price": 43680.0,
       "price_currency": "CAD"
     },
     {
@@ -1494,7 +1518,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 44180.0,
+      "price": 43680.0,
       "price_currency": "CAD"
     },
     {
@@ -1505,7 +1529,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 47180.0,
+      "price": 42830.0,
       "price_currency": "CAD"
     },
     {
@@ -1516,7 +1540,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 50680.0,
+      "price": 50180.0,
       "price_currency": "CAD"
     },
     {
