@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-11-17T13:13:35",
-  "vehicle_count": 151,
+  "generated_at": "2026-11-18T03:01:27",
+  "vehicle_count": 152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -17,7 +17,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 RAM 1500 ",
+      "name": "2014 RAM 1500 Only 139,000km! 4x4! Carplay/Android NAVIGATION AC",
       "vin": "1C6RR7GT6ES288714",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/3f9a790647fd.html",
       "year": 2014,
@@ -28,6 +28,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2015 Kia Sorento SX",
+      "vin": "5XYKWDA77FG623497",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/213c0c3501b4.html",
+      "year": 2015,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used"
+    },
+    {
       "name": "2016 Dodge Grand Caravan Passenger Van Power Doors! Heated Leather seats & Steering! AC!",
       "vin": "2C4RDGDG4GR366636",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/678a1e7d353c.html",
@@ -35,7 +44,7 @@
       "make": "Dodge",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 14999.0,
+      "price": 13974.0,
       "price_currency": "CAD"
     },
     {
@@ -50,7 +59,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Kia Soul ",
+      "name": "2017 Kia Soul EX+ Low KM! Carplay NAV! Heated Seats and Steering",
       "vin": "KNDJP3A54H7476945",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/a1e03d6b7427.html",
       "year": 2017,
@@ -61,12 +70,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Audi SQ5 ",
+      "name": "2018 Audi SQ5 Low KM! AWD! Smart Cruise! Nav! Power Liftgate!",
       "vin": "WA1C4AFY2J2153855",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/738ac455e02a.html",
       "year": 2018,
       "make": "Audi",
-      "model": "SQ5",
+      "model": "SQ5 Low KM! AWD! Smart Cruise! Nav! Power Liftgate!",
       "condition": "used",
       "price": 27991.0,
       "price_currency": "CAD"
@@ -101,7 +110,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 13992.0,
+      "price": 12994.0,
       "price_currency": "CAD"
     },
     {
@@ -147,14 +156,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford F-150 ",
+      "name": "2021 Ford F-150 Crew Cab 4x4! well Maintained! Hitch! Lane keep!",
       "vin": "1FTEW1EP8MFB18932",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/fb943a9697bd.html",
       "year": 2021,
       "make": "Ford",
-      "model": "F-150",
+      "model": "F-150 Crew Cab 4x4! well Maintained! Hitch! Lane keep!",
       "condition": "used",
-      "price": 25991.0,
+      "price": 23999.0,
       "price_currency": "CAD"
     },
     {
@@ -198,7 +207,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 55991.0,
+      "price": 55553.0,
       "price_currency": "CAD"
     },
     {
@@ -209,7 +218,7 @@
       "make": "Chevrolet",
       "model": "Suburban",
       "condition": "used",
-      "price": 59991.0,
+      "price": 59304.0,
       "price_currency": "CAD"
     },
     {
@@ -246,17 +255,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sportage Plug-in Hybrid Plug In Hybrid! 1 owner! Power Tailgate! Leather!",
-      "vin": "KNDPVDAH6P7074939",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/4398b4ca0ff1.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage Plug-In Hybrid",
-      "condition": "used",
-      "price": 38991.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 RAM 1500 Classic Crew Cab SLT! Crew! 4x4! Remote Start! 6 seat! Cam! Hitch!",
       "vin": "3C6RR7LG9PG620597",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/b0d4eaa01218.html",
@@ -264,7 +262,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 34409.0,
+      "price": 31999.0,
       "price_currency": "CAD"
     },
     {
@@ -330,7 +328,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 33716.0,
+      "price": 29999.0,
       "price_currency": "CAD"
     },
     {
@@ -341,7 +339,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 29993.0,
+      "price": 29486.0,
       "price_currency": "CAD"
     },
     {
@@ -363,7 +361,7 @@
       "make": "Mazda",
       "model": "CX-90 MHEV",
       "condition": "used",
-      "price": 37986.0,
+      "price": 35999.0,
       "price_currency": "CAD"
     },
     {
@@ -374,7 +372,7 @@
       "make": "Hyundai",
       "model": "Tucson AWD! Remote Start! Smart Cruise! NAV! Heated Seats",
       "condition": "used",
-      "price": 30604.0,
+      "price": 29809.0,
       "price_currency": "CAD"
     },
     {
@@ -858,7 +856,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 46445.0,
+      "price": 47195.0,
       "price_currency": "CAD"
     },
     {
@@ -869,7 +867,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 46445.0,
+      "price": 47195.0,
       "price_currency": "CAD"
     },
     {
@@ -880,7 +878,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42945.0,
+      "price": 43695.0,
       "price_currency": "CAD"
     },
     {
@@ -891,7 +889,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42980.0,
+      "price": 43730.0,
       "price_currency": "CAD"
     },
     {
@@ -902,7 +900,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 42980.0,
+      "price": 43730.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,6 +1124,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia EV5 WIND Fusion Black",
+      "vin": "KNDH3DDE4V7068565",
+      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/a563cff4d659.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5",
+      "condition": "new",
+      "price": 52280.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia EV9 LAND W/PREMIUM 6P PKG Aurora Black Pearl",
       "vin": "KNDADFS53V6088888",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/39aba5a25c0e.html",
@@ -1232,7 +1241,7 @@
       "make": "Kia",
       "model": "Seltos",
       "condition": "new",
-      "price": 32980.0,
+      "price": 31480.0,
       "price_currency": "CAD"
     },
     {

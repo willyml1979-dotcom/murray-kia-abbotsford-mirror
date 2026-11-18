@@ -1,6 +1,6 @@
 # Murray Kia Abbotsford
 
- dealership in Abbotsford. AI-readable inventory mirror, about 151 vehicles.
+ dealership in Abbotsford. AI-readable inventory mirror, about 152 vehicles.
 
 - Official website: https://www.murraykiaabbotsford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/
