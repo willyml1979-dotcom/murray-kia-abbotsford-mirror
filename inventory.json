@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Kia Abbotsford",
-  "generated_at": "2026-11-18T11:41:28",
-  "vehicle_count": 154,
+  "generated_at": "2026-11-18T22:15:43",
+  "vehicle_count": 144,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -28,23 +28,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Kia Sorento SX",
+      "name": "2015 Kia Sorento 50,000km! Heated & Cooled Leather Seats! Navigation! Sunroof! Power Liftgate! New Tires! Power Seats",
       "vin": "5XYKWDA77FG623497",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/213c0c3501b4.html",
       "year": 2015,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
-    },
-    {
-      "name": "2016 Dodge Grand Caravan Passenger Van Power Doors! Heated Leather seats & Steering! AC!",
-      "vin": "2C4RDGDG4GR366636",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/678a1e7d353c.html",
-      "year": 2016,
-      "make": "Dodge",
-      "model": "Grand Caravan",
       "condition": "used",
-      "price": 13974.0,
+      "price": 17991.0,
       "price_currency": "CAD"
     },
     {
@@ -199,17 +190,6 @@
       "model": "Seltos",
       "condition": "used",
       "price": 20807.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Sorento SOLD~",
-      "vin": "5XYRGDLC1MG028776",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/used/d8816f9901aa.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used",
-      "price": 25991.0,
       "price_currency": "CAD"
     },
     {
@@ -499,17 +479,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Carnival LX+ Aurora Black",
-      "vin": "KNDNB5K32T6646226",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d3b5c6bc1678.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Carnival",
-      "condition": "new",
-      "price": 47445.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia K4 Hatchback EX+ Aurora Black Pearl",
       "vin": "3KPFX5DE7TE403266",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d589a186cb78.html",
@@ -642,17 +611,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Niro EV WIND+ Snow White Pearl",
-      "vin": "KNDCR3L1XT5156661",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/025804221f0a.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 50945.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Niro EV WAVE Interstellar Grey",
       "vin": "KNDCT3L10T5158713",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/a94c37a03d1a.html",
@@ -672,17 +630,6 @@
       "model": "Niro EV",
       "condition": "new",
       "price": 50945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV WAVE Mineral Blue",
-      "vin": "KNDCT3L14T5162652",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/97002616d702.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 48980.0,
       "price_currency": "CAD"
     },
     {
@@ -972,17 +919,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival Hybrid SX Panthera Metal",
-      "vin": "KNDNE5KA1V6231066",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/22bc6167eec0.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival Hybrid",
-      "condition": "new",
-      "price": 59230.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Carnival Hybrid LX+ Snow White Pearl",
       "vin": "KNDNB5KA4V6219230",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/0759fb100200.html",
@@ -1090,17 +1026,6 @@
       "model": "EV4",
       "condition": "new",
       "price": 48630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV5 LAND Frost Blue",
-      "vin": "KNDH44DA6V7062101",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d4a98c0a12c8.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV5",
-      "condition": "new",
-      "price": 52230.0,
       "price_currency": "CAD"
     },
     {
@@ -1357,17 +1282,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos EX Deep Green",
-      "vin": "KNDECCD31V7071631",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/d854361f9fd8.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos EX Ivory Silver",
       "vin": "KNDECCD36V7071012",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/496b92a21976.html",
@@ -1390,17 +1304,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos EX Iceburg Green",
-      "vin": "KNDECCD32V7070455",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/09d88a07f4e3.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos EX Interstellar Grey",
       "vin": "KNDECCD31V5055151",
       "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/8cb7ca8c01a6.html",
@@ -1409,17 +1312,6 @@
       "model": "Seltos",
       "condition": "new",
       "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos EX PREMIUM ICEBERG GREEN",
-      "vin": "KNDECCD31V7052898",
-      "url": "https://willyml1979-dotcom.github.io/murray-kia-abbotsford-mirror/new/900d9fbde1cf.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 39280.0,
       "price_currency": "CAD"
     },
     {
@@ -1573,7 +1465,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 47180.0,
+      "price": 46680.0,
       "price_currency": "CAD"
     },
     {
@@ -1606,7 +1498,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 50680.0,
+      "price": 50180.0,
       "price_currency": "CAD"
     },
     {
